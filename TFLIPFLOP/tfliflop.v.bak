@@ -1,0 +1,10 @@
+module tfliflop(t,clk,q,qbar);
+input t,clk;
+output reg q;
+output qbar;
+always @(posedge clk);
+begin
+q = t ^ q;
+end
+assign qbar = ~q;
+endmodule

@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1\quartus\DE\TFLIPFLOP\simulation\qsim
+vtfliflop
+Z1 IJCXEXln2:RD:i:UFX?;7T3
+Z2 V]LOzoMNVPX0jF8ZG=R7ii2
+Z3 dC:\altera\13.0sp1\quartus\DE\TFLIPFLOP\simulation\qsim
+Z4 w1761625592
+Z5 8tfliflop.vo
+Z6 Ftfliflop.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+!i10b 1
+Z9 !s100 6HDb1GAhe2F68G`lde1J@3
+!s85 0
+Z10 !s108 1761625593.103000
+Z11 !s107 tfliflop.vo|
+Z12 !s90 -work|work|tfliflop.vo|
+!s101 -O0
+vtfliflop_vlg_check_tst
+!i10b 1
+!s100 6NYQF0eZA<NX;6`dTb;GM3
+IabIg`B<@jdQP2R]K:bC@O3
+Vz>@V;dBMMgkQe>:m:TBzK0
+R3
+Z13 w1761625591
+Z14 8tfliflop.vt
+Z15 Ftfliflop.vt
+L0 59
+R7
+r1
+!s85 0
+31
+Z16 !s108 1761625593.199000
+Z17 !s107 tfliflop.vt|
+Z18 !s90 -work|work|tfliflop.vt|
+!s101 -O0
+R8
+vtfliflop_vlg_sample_tst
+!i10b 1
+!s100 jFU8;o]2IX0H`0DS4I>[N2
+I>PX0H[fh:d0Y:XlmEG=JH2
+VCSD9gEGER8Il]IIHXm;[E1
+R3
+R13
+R14
+R15
+L0 29
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8
+vtfliflop_vlg_vec_tst
+!i10b 1
+!s100 R_U07P1di2?:71@LZPRj11
+I4gWNJgQk1iEnnOzlVKAPC1
+VNKiB]_34=8H0PJNV[7^DI1
+R3
+R13
+R14
+R15
+L0 181
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8

@@ -1,0 +1,7 @@
+|tfliflop
+t => q~reg0.ENA
+clk => q~reg0.CLK
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+qbar <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

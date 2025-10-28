@@ -1,0 +1,32 @@
+# do tfliflop.do 
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module tfliflop
+# 
+# Top level modules:
+# 	tfliflop
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module tfliflop_vlg_sample_tst
+# -- Compiling module tfliflop_vlg_check_tst
+# -- Compiling module tfliflop_vlg_vec_tst
+# 
+# Top level modules:
+# 	tfliflop_vlg_vec_tst
+# vsim -L cycloneiv_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate -c -t 1ps -novopt work.tfliflop_vlg_vec_tst 
+# Loading work.tfliflop_vlg_vec_tst
+# Loading work.tfliflop
+# Loading cycloneiv_ver.cycloneiv_io_obuf
+# Loading cycloneiv_ver.cycloneiv_io_ibuf
+# Loading cycloneiv_ver.cycloneiv_lcell_comb
+# Loading altera_ver.dffeas
+# Loading work.tfliflop_vlg_sample_tst
+# Loading work.tfliflop_vlg_check_tst
+# SDF 10.1d Compiler 2012.11 Nov  2 2012
+# 
+# Loading instances from tfliflop_v.sdo
+# Loading altera_ver.PRIM_GDFF_LOW
+# Loading timing data from tfliflop_v.sdo
+# ** Note: (vsim-3587) SDF Backannotation Successfully Completed.
+#    Time: 0 ps  Iteration: 0  Instance: /tfliflop_vlg_vec_tst File: tfliflop.vt
+# Simulation passed !
+# ** Note: $finish    : tfliflop.vt(177)
+#    Time: 1 us  Iteration: 0  Instance: /tfliflop_vlg_vec_tst/tb_out
