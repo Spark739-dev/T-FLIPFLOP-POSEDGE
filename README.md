@@ -1,7 +1,7 @@
 ## NAME:VESHWANTH.
 ## REG NO: 212224230300
 # T-FLIPFLOP-POSEDGE
-## DATE:28-10-2025
+## DATE: 28-10-2025
 **AIM:**
 
 To implement  T flipflop using verilog and validating their functionality using their functional tables
@@ -60,7 +60,13 @@ From the above characteristic table, we can directly write the next state equati
 
 **RTL LOGIC FOR FLIPFLOPS**
 
+<img width="1918" height="1138" alt="RTL" src="https://github.com/user-attachments/assets/523319d7-9378-45ee-a145-44cdf19147f5" />
+
+
 **TIMING DIGRAMS FOR FLIP FLOPS**
+
+<img width="1918" height="1143" alt="TIMING DIAGRAM" src="https://github.com/user-attachments/assets/af5584f3-0f59-4af1-a51a-e46126809bd8" />
+
 
 **RESULTS**
 
